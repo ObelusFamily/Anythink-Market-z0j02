@@ -9,7 +9,6 @@ Please find more info about each part in the relevant Readme file ([frontend](fr
 When implementing a new feature or fixing a bug, please create a new pull request against `main` from a feature/bug branch and add `@vanessa-cooper` as reviewer.
 
 ## First setup
-
 - Install docker from http://docker.io
 - Check docker installation by running: `docker -v` and `docker-compose -v`
 - run `docker-compose up` and verify the frontend and backend is running by visiting: `http://localhost:3000/api/ping` and `http://localhost:3001/register`
